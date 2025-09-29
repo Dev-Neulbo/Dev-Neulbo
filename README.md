@@ -7,16 +7,16 @@
 ## 💡 Project 💡
 
 - <img align="center" src="https://img.shields.io/badge/unity-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white" /> <br>
-    Production of an unattended RPG game using Unity / college grade A+ [Two-people project] <br>
+    Production of an unattended RPG game using Unity [Two-people project]  <br>college grade A+<br>
     <sub> 2024.03 ~ 2024.06 </sub>
 - <img align="center" src="https://img.shields.io/badge/opengl-%235586A4.svg?&style=for-the-badge&logo=opengl&logoColor=white" /> <br>
-    Animated production using Opengl / college grade B+ [Three-people project] <br>
+    Animated production using Opengl [Three-people project] <br> college grade B+ <br>
     <sub> 2024.09 ~ 2024.12 </sub>
 - <img align="center" src="https://img.shields.io/badge/android%20studio-%233DDC84.svg?&style=for-the-badge&logo=android%20studio&logoColor=black" /> <br>
-    Creating a refrigerator ingredient management and recipe search app using Android Studio / college grade B+ <br>
+    Creating a refrigerator ingredient management and recipe search app using Android Studio <br> college grade B+ <br>
     <sub> 2025.03 ~ 2025.06 </sub>
 - <img align="center" src="https://img.shields.io/badge/unreal%20engine-%23313131.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white"  /> <br>
-    Management simulation card game production using Unreal Engine / college grade A+ <br>
+    Management simulation card game production using Unreal Engine <br> college grade A+ <br>
     <sub> 2025.03 ~ 2025.06 </sub>
 - <img align="center" src="https://img.shields.io/badge/unreal%20engine-%23313131.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white"  /> <br>
     Making Story Escape Game Using Unreal Engine [Three-people project] <br>
@@ -36,7 +36,7 @@
 
   
 
-## 📖 Solved 📖
+## ✔ Solved ✔
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=neulb0ot)](https://solved.ac/neulb0ot)
 

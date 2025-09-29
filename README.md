@@ -33,6 +33,7 @@
   <img src="https://img.shields.io/badge/aseprite-%237D929E.svg?&style=for-the-badge&logo=aseprite&logoColor=white" />
   <img src="https://img.shields.io/badge/-C++-000000?.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
 
   
 

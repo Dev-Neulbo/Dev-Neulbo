@@ -6,19 +6,19 @@
 
 ## 💡 Project 💡
 
-- <img align="center" src="https://img.shields.io/badge/unity-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white" />
-    [영상 보기](https://www.youtube.com/watch?v=mmraBK_lzhc)
-    <br>
+- <img align="center" src="https://img.shields.io/badge/unity-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white" />    [영상 보기](https://www.youtube.com/watch?v=mmraBK_lzhc)
+    <br> 
     Production of an unattended RPG game using Unity [Two-people project]  <br>college grade A+<br>
     <sub> 2024.03 ~ 2024.06 </sub> <br> <br>
-    
-- <img align="center" src="https://img.shields.io/badge/opengl-%235586A4.svg?&style=for-the-badge&logo=opengl&logoColor=white" /> <br>
+- <img align="center" src="https://img.shields.io/badge/opengl-%235586A4.svg?&style=for-the-badge&logo=opengl&logoColor=white" />    
+    <br>
     Animated production using Opengl [Three-people project] <br> college grade B+ <br>
     <sub> 2024.09 ~ 2024.12 </sub> <br> <br>
 - <img align="center" src="https://img.shields.io/badge/android%20studio-%233DDC84.svg?&style=for-the-badge&logo=android%20studio&logoColor=black" /> <br>
     Creating a refrigerator ingredient management and recipe search app using Android Studio <br> college grade B+ <br>
     <sub> 2025.03 ~ 2025.06 </sub> <br> <br>
-- <img align="center" src="https://img.shields.io/badge/unreal%20engine-%23313131.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white"  /> <br>
+- <img align="center" src="https://img.shields.io/badge/unreal%20engine-%23313131.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white"  />    [영상 보기](https://www.youtube.com/watch?v=36OyJrJh3qw)
+    <br>
     Management simulation card game production using Unreal Engine <br> college grade A+ <br>
     <sub> 2025.03 ~ 2025.06 </sub> <br> <br>
 - <img align="center" src="https://img.shields.io/badge/unreal%20engine-%23313131.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white"  /> <br>

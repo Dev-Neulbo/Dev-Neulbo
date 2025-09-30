@@ -2,7 +2,11 @@
 
 # Dev-Neulbo / Hyeon-Jun Lee
 
+[![Tistory Blog](https://img.shields.io/badge/TISTORY-BLOG-E7600A?style=flat-square&logo=tistory&logoColor=white)](https://neulbo728.tistory.com/)
 </div>
+
+
+
 
 ## 💡 Project 💡
 

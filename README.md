@@ -30,7 +30,7 @@
     <sub> 2025.04 ~ </sub> <br> <br>
 - <img align="center" src="https://img.shields.io/badge/unity-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white" /> <br>
     Making a defense game using Unity [Three-people project] <br>
-    <sub> 2025.09 ~ </sub>  <br> <br>
+    <sub> 2025.09 ~ 2025.10 </sub>  <br> <br>
  
 ## 📖 Studying 📖
 

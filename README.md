@@ -26,10 +26,10 @@
     Management simulation card game production using Unreal Engine <br> college grade A+ <br>
     <sub> 2025.03 ~ 2025.06 </sub> <br> <br>
 - <img align="center" src="https://img.shields.io/badge/unreal%20engine-%23313131.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white"  /> <br>
-    Making Story Escape Game Using Unreal Engine [Three-people project] <br>
-    <sub> 2025.04 ~ </sub> <br> <br>
+    Story Escape Game Using Unreal Engine [Three-people project] [Team-ALTF4] <br> 2025 Student Start-up Promising Team 300 Advance <br>
+    <sub> 2025.04 ~ 2026.01</sub>  <br> <br>
 - <img align="center" src="https://img.shields.io/badge/unity-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white" /> <br>
-    Making a defense game using Unity [Three-people project] <br>
+    Recruitment of the Devil Army [Three-people project] [Team-ALTF4] <br> Daegu University won the Excellence Award for the 2025 IT Engineering Competition <br>
     <sub> 2025.09 ~ 2025.10 </sub>  <br> <br>
  
 ## 📖 Studying 📖

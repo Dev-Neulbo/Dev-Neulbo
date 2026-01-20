@@ -31,6 +31,9 @@
 - <img align="center" src="https://img.shields.io/badge/unity-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white" /> <br>
     Recruitment of the Devil Army [Three-people project] [Team-ALTF4] <br> Daegu University won the Excellence Award for the 2025 IT Engineering Competition <br>
     <sub> 2025.09 ~ 2025.10 </sub>  <br> <br>
+- <img align="center" src="https://img.shields.io/badge/unity-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white" /> <br>
+    Creating a Unity Engine-based 2D Action Game [Twelve-people project] [Team-Unknown] <br>
+    <sub> 2025.12 ~ </sub> <br><br>
  
 ## 📖 Studying 📖
 
